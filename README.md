@@ -10,4 +10,4 @@ Finally, students will learn about modular programming and how to write and use 
 
 Upon completion of this course, students will have a solid foundation in Python programming and will be able to write Python programs with confidence.
 
-Prerequisites: No prior programming experience is required. However, students should have basic computer skills and familiarity with using a command-line interface.
+> Prerequisites: No prior programming experience is required. However, students should have basic computer skills and familiarity with using a command-line interface.
