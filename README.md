@@ -1,5 +1,8 @@
 # Python-2023
 
+<!-- Logo image -->
+<img src="./images/logo.webp" alt="logo" width="400"/>
+
 This Python Programming Fundamentals course is designed to introduce students to the fundamental concepts of Python programming. The course will cover the basic concepts of Python programming language, including setting up the development environment, data types, loops and functions, object-oriented programming, and modular programming in Python.
 
 In this course, students will learn how to set up a Python development environment on their computers and write basic Python programs using different data types such as strings, integers, floats, and booleans. Students will also learn how to use loops and functions to write more complex programs.
