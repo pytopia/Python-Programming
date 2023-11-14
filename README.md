@@ -41,7 +41,7 @@ We also offer a [course on these projects](https://www.pytopia.ai/courses/python
 # 🚦 Getting Started
 To start using the projects in this repository:
 
-- Clone the repo to your local machine: `git clone https://github.com/pytopia/python.git`
+- Clone the repo to your local machine: `git clone https://github.com/pytopia/python-programming.git`
 - Navigate to the specific project directory and Start working on the project using the provided template code and following the project description.
 
 # 🤝 Contributing
